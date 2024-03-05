@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Mijux/fastop">
-    <img src="https://cdn-icons-png.flaticon.com/512/1740/1740222.png" alt="Logo" width="125" height="125">
+    <img src="rocket.png" alt="Rocket Logo" width="125" height="125">
   </a>
 
   <h3 align="center">FastOP</h3>
@@ -138,3 +138,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Mijux/fastop
 ## Acknowledgements
 
 * [ImgShields](https://shields.io/)
+* [Icons created by Freepik - Flaticon](https://www.flaticon.com/icons/)
