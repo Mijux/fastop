@@ -59,7 +59,7 @@ git clone https://github.com/Mijux/fastop.git
 python3 -m pip install -r requirements.txt
 ```
 
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
 
 That's all ! ✨
 
