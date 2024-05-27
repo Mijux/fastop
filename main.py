@@ -113,7 +113,7 @@ def arg_parser() -> Namespace:
         "--hours",
         nargs="+",
         type=float,
-        help="How many hours on your activity. ex: -h 7 or -h 7 7 6",
+        help="How many hours on your activity. ex: -hs 7 or -hs 7 7 6",
         required=True,
     )
 
