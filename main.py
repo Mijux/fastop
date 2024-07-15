@@ -48,7 +48,7 @@ def post_activity(
     else:
         print(f"{Fore.RED}Aie aie aie petite erreur{Style.RESET_ALL}")
         with open("./logerreur", "w") as errfile:
-            errfile.write(res.content)
+            errfile.write(str(res.content))
 
 
 def arg_parser() -> Namespace:
